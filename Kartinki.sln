@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kartinki", "Kartinki.csproj", "{22876E9E-E6B1-4CD8-8A5D-1EF37819054C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22876E9E-E6B1-4CD8-8A5D-1EF37819054C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22876E9E-E6B1-4CD8-8A5D-1EF37819054C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22876E9E-E6B1-4CD8-8A5D-1EF37819054C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22876E9E-E6B1-4CD8-8A5D-1EF37819054C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20A2EE5B-F7F5-41D3-8E7E-FB35E6A2B670}
+	EndGlobalSection
+EndGlobal

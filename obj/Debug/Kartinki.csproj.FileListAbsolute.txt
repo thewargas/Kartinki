@@ -1,0 +1,12 @@
+C:\Users\warga\source\repos\Kartinki\bin\Debug\Kartinki.exe.config
+C:\Users\warga\source\repos\Kartinki\bin\Debug\Kartinki.exe
+C:\Users\warga\source\repos\Kartinki\bin\Debug\Kartinki.pdb
+C:\Users\warga\source\repos\Kartinki\obj\Debug\Kartinki.csproj.AssemblyReference.cache
+C:\Users\warga\source\repos\Kartinki\obj\Debug\Kartinki.csproj.SuggestedBindingRedirects.cache
+C:\Users\warga\source\repos\Kartinki\obj\Debug\Kartinki.Form1.resources
+C:\Users\warga\source\repos\Kartinki\obj\Debug\Kartinki.Form2.resources
+C:\Users\warga\source\repos\Kartinki\obj\Debug\Kartinki.Properties.Resources.resources
+C:\Users\warga\source\repos\Kartinki\obj\Debug\Kartinki.csproj.GenerateResource.cache
+C:\Users\warga\source\repos\Kartinki\obj\Debug\Kartinki.csproj.CoreCompileInputs.cache
+C:\Users\warga\source\repos\Kartinki\obj\Debug\Kartinki.exe
+C:\Users\warga\source\repos\Kartinki\obj\Debug\Kartinki.pdb
